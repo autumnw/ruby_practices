@@ -8,7 +8,7 @@
 # ./cli.rb -n 'aa' -a 23 -g m
 # or
 # ./cli.rb -n 'aa' -a 23 -g mal
-# We always get the result with options[:gender] = 'males'
+# We always get the result with options[:gender] = 'male'
 # The parameter gender was auto-completed!
 
 
